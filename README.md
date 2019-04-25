@@ -13,3 +13,7 @@ The data comes from http://www.initializr.com/ and can be displayed using any we
 ## How to contribute
 
 Fork it or whatever, its notthing interesting. Its just form my training
+
+### Copyright
+
+Git Training 2019
