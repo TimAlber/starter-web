@@ -16,4 +16,4 @@ Fork it or whatever, its notthing interesting. Its just form my training. Issue 
 
 ### Copyright
 
-Git Training 2019
+Git Training 2019. No rights reserved.
