@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is an example REpo for learning and training Git. Adding a line. And another one.
+This is an example REpo for learning and training Git. Adding a line. And another one. Update after stashing.
 
 ## Introduction
 
